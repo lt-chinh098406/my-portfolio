@@ -1,5 +1,6 @@
 import img1 from '../../access/img1.png';
 import img2 from '../../access/img2.png';
+import img3 from '../../access/img3.png';
 import img4 from '../../access/img4.png';
 import img5 from '../../access/img5.png';
 import img6 from '../../access/img6.png';
@@ -11,7 +12,7 @@ const projects = [
     id: 1,
     name: 'Simen Websites',
     github: 'https://github.com/lt-chinh098406/simen',
-    link: 'https://simen-clothing.herokuapp.com/',
+    link: '',
     img: img1,
   },
   {
@@ -43,14 +44,14 @@ const projects = [
     img: img6,
   },
   {
-    id: 6,
+    id: 7,
     name: 'SetSail',
     github: 'https://github.com/lt-chinh098406/Winter-Holidays--SetSail',
     link: 'https://lt-chinh098406.github.io/Winter-Holidays--SetSail/',
     img: img7,
   },
   {
-    id: 7,
+    id: 8,
     name: 'Love Travel',
     github: 'https://github.com/lt-chinh098406/Travel-Themes',
     link: 'https://lt-chinh098406.github.io/Travel-Themes/',

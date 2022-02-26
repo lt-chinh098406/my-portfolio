@@ -11,7 +11,7 @@ const projects = [
     id: 1,
     name: 'Simen Websites',
     github: 'https://github.com/lt-chinh098406/simen',
-    link: 'https://simen-clothing.herokuapp.com/',
+    link: '',
     img: img1,
   },
   {

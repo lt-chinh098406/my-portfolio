@@ -13,10 +13,12 @@ html {
     @apply text-[40px] font-semibold mb-1;
   }
 
-  @media screen and (max-width: 640px) {
-    .no-scrollbar::-webkit-scrollbar {
-      display: none;
-    }
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+
+  .scrollbar::-webkit-scrollbar {
+    display: initial;
   }
 
   .border-gradient {
